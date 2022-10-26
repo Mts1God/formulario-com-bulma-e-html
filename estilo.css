@@ -1,0 +1,19 @@
+
+.marg{
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+
+}
+.titulo h1{
+    font-size: 35px;
+    margin-top: 50px;
+}
+body{
+    background-color: #F5BB35 ;
+}
